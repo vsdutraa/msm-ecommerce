@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/24 13:18:24.000.047,C:\Users\lfbra\OneDrive\Documentos\Projetos Delphi\Project1.dproj=C:\Users\lfbra\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/09/24 18:40:32.000.052,=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/24 18:41:07.000.984,C:\Projetos\Projetos Delphi\DAO\Acesso.DAO.pas=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/24 18:41:39.000.021,C:\Projetos\Projetos Delphi\SrvEcommerce.dproj=C:\Projetos\Projetos Delphi\Project1.dproj</Transaction>
+    <Transaction>2025/09/24 18:59:41.000.655,=C:\Projetos\Repositorio\Componentes\adrconnection\Source\ADRConn.DAO.Base.pas</Transaction>
+    <Transaction>2025/09/24 19:36:47.000.917,=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/24 19:37:09.000.248,C:\Projetos\Projetos Delphi\Unit1.pas=C:\Projetos\Projetos Delphi\Controllers\WebHook.Acesso.pas</Transaction>
+    <Transaction>2025/09/24 19:40:07.000.095,=C:\Users\lfbra\Downloads\WebHook.Controllers.Usuarios.pas</Transaction>
+    <Transaction>2025/09/24 19:40:35.000.831,=C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas</Transaction>
+    <Transaction>2025/09/24 19:51:57.000.364,=C:\Projetos\Projetos Delphi\DAO\Usuario.DAO.pas</Transaction>
+    <Transaction>2025/09/24 19:55:40.000.946,C:\Projetos\Projetos Delphi\DAO\Usuario.DAO.pas=</Transaction>
+    <Transaction>2025/09/24 19:55:43.000.765,C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas=</Transaction>
+    <Transaction>2025/09/24 19:58:51.000.509,=C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas</Transaction>
+    <Transaction>2025/09/24 19:59:12.000.588,C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas=</Transaction>
+    <Transaction>2025/09/26 19:33:22.000.524,=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/26 19:33:41.000.133,C:\Projetos\Projetos Delphi\DAO\Usuarios.DAO.pas=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/26 19:56:55.000.760,=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/26 19:57:09.000.066,C:\Projetos\Projetos Delphi\Controllers\WebHook.Usuarios.pas=C:\Projetos\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/09/26 20:17:42.000.962,=C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas</Transaction>
+    <Transaction>2025/09/26 20:22:09.000.903,C:\Projetos\Projetos Delphi\Controllers\WebHook.Controllers.Usuarios.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
